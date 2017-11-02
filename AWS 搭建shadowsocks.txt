@@ -88,6 +88,11 @@
 	
 		/etc/init.d/shadowsocks status
 		
+	修改配置文件
+		
+		vi /etc/shadowsocks-libev/config.json
+	
+	
 		至此结束，
 
 		完了
